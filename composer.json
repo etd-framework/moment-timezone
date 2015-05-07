@@ -1,6 +1,6 @@
 {
   "name": "etdsolutions/moment-timezone",
-  "description": "Shim repository for Moment.js",
+  "description": "Shim repository for timezone support for moment.js",
   "homepage": "http://momentjs.com/timezone",
   "license": "MIT",
   "require": {
